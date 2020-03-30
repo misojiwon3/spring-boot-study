@@ -1,0 +1,35 @@
+spring.main.allow-bean-definition-overriding : false
+
+#
+spring:
+  main:
+    web-application-type: none
+
+# servlet의 포트 설정
+server:
+  port: 9000
+---
+
+hanseung:
+  name: hanseung-dev
+  age: "${random.int(0,100)}" # " 는 있어도 되고 없어도 된다
+
+---
+
+holoman:
+  name: "hanseung"
+  how-long: 34
+
+person:
+  age: 34
+  sex: "M"
+  height: 180
+  name: "hslee"
+
+phone:
+  os: "ios"
+  series: 8
+
+phone2:
+  os: "android"
+  series: 10

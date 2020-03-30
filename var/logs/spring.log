@@ -1,0 +1,58 @@
+2020-02-23 14:28:57.520  INFO 17649 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 17649 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:28:57.525  INFO 17649 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:29:00.821  INFO 17649 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 5.958 seconds (JVM running for 7.538)
+2020-02-23 14:48:20.689  INFO 18874 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 18874 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:48:20.693  INFO 18874 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:48:24.908  INFO 18874 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 6.732 seconds (JVM running for 9.329)
+2020-02-23 14:49:48.820  INFO 18966 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 18966 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:49:48.828  INFO 18966 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:49:52.645  INFO 18966 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 6.049 seconds (JVM running for 7.759)
+2020-02-23 14:54:40.925  INFO 19249 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19249 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:54:40.930 DEBUG 19249 --- [main] me.hanseung.SpringBootInitApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-23 14:54:40.931  INFO 19249 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:54:43.520  INFO 19249 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 4.634 seconds (JVM running for 6.236)
+2020-02-23 14:54:43.521 DEBUG 19249 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 14:54:43.521 DEBUG 19249 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 14:54:43.559 DEBUG 19249 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 14:54:43.560 DEBUG 19249 --- [main] me.hanseung.runner.HanseungRunner        : age : 79
+2020-02-23 14:54:43.562 DEBUG 19249 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 14:54:58.612  INFO 19271 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19271 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:54:58.621  INFO 19271 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:55:00.943  INFO 19271 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 3.609 seconds (JVM running for 4.646)
+2020-02-23 14:55:00.945 DEBUG 19271 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 14:55:00.948 DEBUG 19271 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 14:55:00.977 DEBUG 19271 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 14:55:00.979 DEBUG 19271 --- [main] me.hanseung.runner.HanseungRunner        : age : 77
+2020-02-23 14:55:00.979 DEBUG 19271 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 14:55:45.038  INFO 19317 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19317 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 14:55:45.044  INFO 19317 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 14:55:47.504  INFO 19317 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 4.042 seconds (JVM running for 5.266)
+2020-02-23 14:55:47.505 DEBUG 19317 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 14:55:47.510 DEBUG 19317 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 14:55:47.536 DEBUG 19317 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 14:55:47.537 DEBUG 19317 --- [main] me.hanseung.runner.HanseungRunner        : age : 61
+2020-02-23 14:55:47.538 DEBUG 19317 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:04:21.006  INFO 19828 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19828 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 15:04:21.128  INFO 19828 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 15:04:26.180  INFO 19828 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 7.377 seconds (JVM running for 9.736)
+2020-02-23 15:04:26.200 DEBUG 19828 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:04:26.205 DEBUG 19828 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 15:04:26.336 DEBUG 19828 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 15:04:26.338 DEBUG 19828 --- [main] me.hanseung.runner.HanseungRunner        : age : 56
+2020-02-23 15:04:26.339 DEBUG 19828 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:04:48.059  INFO 19853 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19853 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 15:04:48.074  INFO 19853 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 15:04:52.343  INFO 19853 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 5.924 seconds (JVM running for 7.847)
+2020-02-23 15:04:52.354 DEBUG 19853 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:04:52.365 DEBUG 19853 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 15:04:52.389 DEBUG 19853 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 15:04:52.391 DEBUG 19853 --- [main] me.hanseung.runner.HanseungRunner        : age : 3
+2020-02-23 15:04:52.391 DEBUG 19853 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:05:13.270  INFO 19885 --- [main] me.hanseung.SpringBootInitApplication    : Starting SpringBootInitApplication on hansyung-iui-MacBook-Pro-Retina.local with PID 19885 (/Users/hanseung/Development/_Study/SpringBoot/SpringBootInit/target/classes started by hanseung in /Users/hanseung/Development/_Study/SpringBoot/SpringBootInit)
+2020-02-23 15:05:13.278  INFO 19885 --- [main] me.hanseung.SpringBootInitApplication    : The following profiles are active: production
+2020-02-23 15:05:18.495  INFO 19885 --- [main] me.hanseung.SpringBootInitApplication    : Started SpringBootInitApplication in 6.979 seconds (JVM running for 9.553)
+2020-02-23 15:05:18.517 DEBUG 19885 --- [main] me.hanseung.runner.HanseungRunner        : ============================
+2020-02-23 15:05:18.518 DEBUG 19885 --- [main] me.hanseung.runner.HanseungRunner        : hello production
+2020-02-23 15:05:18.572 DEBUG 19885 --- [main] me.hanseung.runner.HanseungRunner        : name : hanseung-prod
+2020-02-23 15:05:18.578 DEBUG 19885 --- [main] me.hanseung.runner.HanseungRunner        : age : 31
+2020-02-23 15:05:18.589 DEBUG 19885 --- [main] me.hanseung.runner.HanseungRunner        : ============================
